@@ -8,7 +8,7 @@ conn = psycopg2.connect(
     host="localhost",
     database="workout",
     user="postgres",
-    password="everlykaywells"
+    password="yourpassword"
 )
 
 # Endpoint to return user data
