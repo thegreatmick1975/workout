@@ -7,7 +7,7 @@ conn = psycopg2.connect(
     host="localhost",
     database="postgres",
     user="postgres",
-    password="everlykaywells"
+    password="yourpassword"
 )
 
 # Endpoint for creating a new user
